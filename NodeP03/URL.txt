@@ -1,0 +1,11 @@
+http://opentutorials.org:3000/main?id=HTML&page=12
+
+http : protocol -> hypertext transfer protocol
+https : protocol -> HyperText Transfer Protocol over Secure Socket Layer
+opentutorials.org : host(domain (name)) -> 인터넷에 접속되어있는 각각의 컴퓨터.
+                    어떤 특정한 인터넷에 연결되어있는 컴퓨터를 가리키는 주소.
+3000 : port -> 특정 서버에 연결할 수 있는 열쇠.
+main : path -> 어느 디렉토리의 어느 페이지인지 알려줌.
+id=HTML&page=12 : Query string -> 시작은 ?, 값과 값은 &, k=v로 나타낸다.
+
+API : Application Programming Interface
