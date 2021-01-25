@@ -9,4 +9,5 @@
     <li>Conditional statement</li>
     <li>Loop</li>
     <li>Array</li>
+    <li>Function</li>
 </ol>
