@@ -1,4 +1,4 @@
-# NodeP02
+# Node02
 
 <ol>Node.js syntex<br/>
     <li>Number</li>
